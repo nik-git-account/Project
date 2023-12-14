@@ -1,0 +1,10 @@
+Project Name: Data Acquistion System
+
+Technology: Microcontroller + RTOS
+
+Project Summary:
+The project is based on taking the ADC values on real time basis through
+FreeRTOS ported in LPC1768 board. The ADC values are then trasmitted to
+computer via UART. Xenomai framework has been ported to the computer to
+take the data. The data is then sent to user space via pipe. Finally the pipe is
+read by GTK which plots the ADC values on the graph.
