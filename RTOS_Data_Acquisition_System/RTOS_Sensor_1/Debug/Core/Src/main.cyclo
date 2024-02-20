@@ -1,0 +1,17 @@
+../Core/Src/main.c:77:6:vBusyWaitTask	2
+../Core/Src/main.c:95:7:fahrenheit_to_Celsius	1
+../Core/Src/main.c:100:6:vMQ_5_Task	1
+../Core/Src/main.c:116:6:vDHT_22_Task	1
+../Core/Src/main.c:134:6:vIR_Task	1
+../Core/Src/main.c:150:6:vSound_Task	1
+../Core/Src/main.c:172:5:main	1
+../Core/Src/main.c:254:6:SystemClock_Config	3
+../Core/Src/main.c:300:13:MX_ADC1_Init	3
+../Core/Src/main.c:352:13:MX_ADC2_Init	3
+../Core/Src/main.c:404:13:MX_ADC3_Init	3
+../Core/Src/main.c:456:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:489:13:MX_GPIO_Init	1
+../Core/Src/main.c:524:6:StartDefaultTask	1
+../Core/Src/main.c:542:6:StartTask02	1
+../Core/Src/main.c:561:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:578:6:Error_Handler	1
